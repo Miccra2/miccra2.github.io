@@ -1,0 +1,16 @@
+a, code, 
+img, 
+ol, ul, li, 
+table, tbody, tfoot, thead, tr, th, td, 
+canvas, 
+footer, header, 
+menu, nav, section, 
+head, body, div {
+  margin: 0;
+  padding: 0;
+  boarder: 0;
+}
+
+ol, ul {
+  list-style: none;
+}

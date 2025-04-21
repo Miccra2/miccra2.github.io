@@ -1,0 +1,27 @@
+head, body {
+  background: #181A20;
+  color: #C0C0C0;
+  font-size: 20px;
+}
+
+nav, section {
+  padding: 10px;
+}
+
+nav#nav-bar {
+  background: #282A30;
+}
+
+ul.nav-list {
+  display: flex;
+  flex-direction: row;
+  align: right;
+}
+
+li.nav-item {
+  margin: 10px;
+}
+
+span.nav-item-name {
+  font-size: 40px;
+}
