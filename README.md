@@ -1,9 +1,9 @@
-# [https://miccra2.github.io](Miccra2)
+# [Miccra2](https://miccra2.github.io)
 Hi! My name is Michel Föhre. I'm also known under the names Michcrafter1003 and Miccra2 and this is my personal website!
 
-## [https://miccra2.github.io/projects](Projects)
-- [https://miccra2.github.io/projects/c65xx](C65xx): A 6502/6510 emulator for c64 emulation and 6502 assembler!
+## [Projects](https://miccra2.github.io/projects)
+- [C65xx](https://miccra2.github.io/projects/c65xx): A 6502/6510 emulator for c64 emulation and 6502 assembler!
 
-## [https://miccra2.github.io](Links)
-- [https://miccra2.github.io](Website): Personal website (this website)
-- [https://github.com/miccra2](Github): Personal github account (this one)
+## [Links](https://miccra2.github.io)
+- [Website](https://miccra2.github.io): Personal website (this website)
+- [Github](https://github.com/miccra2): Personal github account (this one)
