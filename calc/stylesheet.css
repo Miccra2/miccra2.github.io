@@ -1,0 +1,34 @@
+html, body {
+    margin:           0;
+    boarder:          0;
+    padding:          0;
+    background-color: #404040;
+    color:            #C0C0C0;
+}
+
+div#settings {
+    display:        flex;
+    flex-direction: row;
+}
+
+div.setting {
+    margin:    10px;
+    height:    20px;
+    font-size: 20px;
+}
+
+div#time-container {
+    margin:           10px;
+    height:           38px;
+    font-size:        38px;
+    display:          flex;
+    felx-direction:   row;
+    background-color: #303030;
+}
+
+div#question, div#answer {
+    margin:           30px;
+    height:           80px;
+    background-color: #303030;
+    font-size:        80px;
+}
